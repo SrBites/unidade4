@@ -1,3 +1,11 @@
+Codigo oficial está no repositorio: https://github.com/SrBites/unidade4.git
+com livre acesso.
+
+execute:
+git clone https://github.com/SrBites/unidade4.git 
+
+em seguida pode continuar com os passos seguintes de instalação.
+
 1 - Instale as dependências:
 
 na linha de comando execute:
